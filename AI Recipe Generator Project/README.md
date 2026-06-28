@@ -7,7 +7,7 @@
 - Godswill Ifeadi I.C - 242030044
 
 ## Project Description
-This is an OOP Python project that uses a Tkinter GUI to suggest recipes based on ingredients entered by the user. It also shows missing ingredients and suggests substitutes.
+This project is an AI-powered recipe generator built with Python Object-Oriented Programming and a Tkinter graphical user interface. It allows users to enter ingredients they already have, then compares those ingredients with a recipe database to recommend suitable meals, show match percentages, identify missing ingredients, and suggest possible substitutes. The project is divided into separate files for data models, recipe data, recommendation logic, and GUI design so that each part of the system is organized and easy to understand.
 
 ## File Structure
 - `data_models.py`: OOP classes for recipe data models.
