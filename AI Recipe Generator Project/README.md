@@ -1,4 +1,4 @@
-# AI Powered Recipe Generator GUI
+# AI Powered Recipe Generator
 
 ## Group Members
 - Umar Kida - 242030103
